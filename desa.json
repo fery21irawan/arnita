@@ -1,0 +1,612 @@
+{
+  "desa": [
+    {
+      "ID": "1",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Mendawai",
+      "Luas_km2": null
+    },
+    {
+      "ID": "2",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Galinggang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "3",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Tampelas",
+      "Luas_km2": null
+    },
+    {
+      "ID": "4",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Telaga",
+      "Luas_km2": null
+    },
+    {
+      "ID": "5",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Kampung Melayu",
+      "Luas_km2": null
+    },
+    {
+      "ID": "6",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Tumbang Bulan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "7",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Babirah",
+      "Luas_km2": null
+    },
+    {
+      "ID": "8",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Hantipan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "9",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Batuah",
+      "Luas_km2": null
+    },
+    {
+      "ID": "10",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Ganepo",
+      "Luas_km2": null
+    },
+    {
+      "ID": "11",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Jemaras",
+      "Luas_km2": null
+    },
+    {
+      "ID": "12",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Terantang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "13",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Bamadu",
+      "Luas_km2": null
+    },
+    {
+      "ID": "14",
+      "Provinsi": "2",
+      "Kabupaten": "3",
+      "Kecamatan": "6",
+      "Desa_Kota": "Bandung",
+      "Luas_km2": null
+    },
+    {
+      "ID": "16",
+      "Provinsi": "2",
+      "Kabupaten": "4",
+      "Kecamatan": "7",
+      "Desa_Kota": "Bogor",
+      "Luas_km2": null
+    },
+    {
+      "ID": "17",
+      "Provinsi": "3",
+      "Kabupaten": "5",
+      "Kecamatan": "8",
+      "Desa_Kota": "Jakarta",
+      "Luas_km2": null
+    },
+    {
+      "ID": "20",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Mentaya Seberang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "22",
+      "Provinsi": "5",
+      "Kabupaten": "6",
+      "Kecamatan": "9",
+      "Desa_Kota": "Surabaya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "23",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Tewang Kampung",
+      "Luas_km2": null
+    },
+    {
+      "ID": "24",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Terantang Hilir",
+      "Luas_km2": null
+    },
+    {
+      "ID": "25",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Hanaut",
+      "Luas_km2": null
+    },
+    {
+      "ID": "26",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Perigi",
+      "Luas_km2": null
+    },
+    {
+      "ID": "27",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Parupuk",
+      "Luas_km2": null
+    },
+    {
+      "ID": "28",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Karuing",
+      "Luas_km2": null
+    },
+    {
+      "ID": "29",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Jahanjang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "30",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Tumbang Runen",
+      "Luas_km2": null
+    },
+    {
+      "ID": "31",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Baun Bango",
+      "Luas_km2": null
+    },
+    {
+      "ID": "32",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Asem Kumbang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "33",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Kampung Melayu (Kerokan lahan PT.RMU)",
+      "Luas_km2": null
+    },
+    {
+      "ID": "34",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Mendawai (Base Camp Mendawai)",
+      "Luas_km2": null
+    },
+    {
+      "ID": "35",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "5",
+      "Desa_Kota": "Sampit",
+      "Luas_km2": null
+    },
+    {
+      "ID": "36",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Bapinang Hulu",
+      "Luas_km2": null
+    },
+    {
+      "ID": "38",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Satiruk",
+      "Luas_km2": null
+    },
+    {
+      "ID": "39",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Serambut",
+      "Luas_km2": null
+    },
+    {
+      "ID": "40",
+      "Provinsi": "1",
+      "Kabupaten": "8",
+      "Kecamatan": "10",
+      "Desa_Kota": "Palangkaraya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "41",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Kecamatan Mendawai",
+      "Luas_km2": null
+    },
+    {
+      "ID": "42",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Pulau Hanaut",
+      "Luas_km2": null
+    },
+    {
+      "ID": "43",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Bapinang Hilir Laut",
+      "Luas_km2": null
+    },
+    {
+      "ID": "44",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Seragam Jaya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "45",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Seranau",
+      "Luas_km2": null
+    },
+    {
+      "ID": "46",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Dusun Pipisan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "47",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Dusun Belayar",
+      "Luas_km2": null
+    },
+    {
+      "ID": "48",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Rawa Sari",
+      "Luas_km2": null
+    },
+    {
+      "ID": "49",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Makarti Jaya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "50",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Panyaguan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "51",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Babaung",
+      "Luas_km2": null
+    },
+    {
+      "ID": "52",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Bapinang Hilir",
+      "Luas_km2": null
+    },
+    {
+      "ID": "53",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "3",
+      "Desa_Kota": "Bantian",
+      "Luas_km2": null
+    },
+    {
+      "ID": "54",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Mekartani",
+      "Luas_km2": null
+    },
+    {
+      "ID": "55",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Teluk Sebuluh",
+      "Luas_km2": null
+    },
+    {
+      "ID": "56",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "12",
+      "Desa_Kota": "Kantor Sampit",
+      "Luas_km2": null
+    },
+    {
+      "ID": "57",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "11",
+      "Desa_Kota": "Basawang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "58",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "11",
+      "Desa_Kota": "Ujung Pandaran",
+      "Luas_km2": null
+    },
+    {
+      "ID": "59",
+      "Provinsi": "7",
+      "Kabupaten": "15",
+      "Kecamatan": "13",
+      "Desa_Kota": "Semarang",
+      "Luas_km2": null
+    },
+    {
+      "ID": "60",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "12",
+      "Desa_Kota": "Sampit",
+      "Luas_km2": null
+    },
+    {
+      "ID": "61",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "14",
+      "Desa_Kota": "Patai",
+      "Luas_km2": null
+    },
+    {
+      "ID": "62",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "15",
+      "Desa_Kota": "Bangun Jaya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "63",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "16",
+      "Desa_Kota": "Basirih Hilir",
+      "Luas_km2": null
+    },
+    {
+      "ID": "64",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "16",
+      "Desa_Kota": "Sei Ijum Raya",
+      "Luas_km2": null
+    },
+    {
+      "ID": "65",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "16",
+      "Desa_Kota": "Basirih hulu",
+      "Luas_km2": null
+    },
+    {
+      "ID": "66",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "17",
+      "Desa_Kota": "Bagendang Hilir",
+      "Luas_km2": null
+    },
+    {
+      "ID": "67",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "18",
+      "Desa_Kota": "Tanjung Bantur",
+      "Luas_km2": null
+    },
+    {
+      "ID": "68",
+      "Provinsi": "0",
+      "Kabupaten": "0",
+      "Kecamatan": "0",
+      "Desa_Kota": "Desa tak diketahui",
+      "Luas_km2": null
+    },
+    {
+      "ID": "85",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Karuing - Punggu Alas",
+      "Luas_km2": null
+    },
+    {
+      "ID": "86",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Muara bulan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "87",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Palangsian",
+      "Luas_km2": null
+    },
+    {
+      "ID": "88",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Parigi",
+      "Luas_km2": null
+    },
+    {
+      "ID": "89",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "5",
+      "Desa_Kota": "Pelangsian",
+      "Luas_km2": null
+    },
+    {
+      "ID": "90",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "2",
+      "Desa_Kota": "Perupuk",
+      "Luas_km2": null
+    },
+    {
+      "ID": "91",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "5",
+      "Desa_Kota": "Sawahan",
+      "Luas_km2": null
+    },
+    {
+      "ID": "92",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "4",
+      "Desa_Kota": "Terantang Hulu",
+      "Luas_km2": null
+    },
+    {
+      "ID": "93",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "1",
+      "Desa_Kota": "Tumbang Samba",
+      "Luas_km2": null
+    },
+    {
+      "ID": "94",
+      "Provinsi": "11",
+      "Kabupaten": "26",
+      "Kecamatan": "26",
+      "Desa_Kota": "Bogem",
+      "Luas_km2": null
+    },
+    {
+      "ID": "95",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "27",
+      "Desa_Kota": "Kota Besi",
+      "Luas_km2": null
+    },
+    {
+      "ID": "96",
+      "Provinsi": "11",
+      "Kabupaten": "27",
+      "Kecamatan": "28",
+      "Desa_Kota": "Mantrijeron",
+      "Luas_km2": null
+    },
+    {
+      "ID": "98",
+      "Provinsi": "2",
+      "Kabupaten": "29",
+      "Kecamatan": "30",
+      "Desa_Kota": "Pondok Petir",
+      "Luas_km2": null
+    }
+  ]
+}

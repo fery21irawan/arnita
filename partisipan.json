@@ -1,0 +1,28 @@
+{
+  "partisipan": [
+    {
+      "ID": "1",
+      "partisipan": "Community"
+    },
+    {
+      "ID": "2",
+      "partisipan": "Staff"
+    },
+    {
+      "ID": "3",
+      "partisipan": "Lembaga Pendidikan"
+    },
+    {
+      "ID": "4",
+      "partisipan": "Lembaga Non Profit"
+    },
+    {
+      "ID": "5",
+      "partisipan": "Lembaga Profit"
+    },
+    {
+      "ID": "6",
+      "partisipan": "Lembaga Pemerintah"
+    }
+  ]
+}

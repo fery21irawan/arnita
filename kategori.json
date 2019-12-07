@@ -1,0 +1,139 @@
+{
+  "kategori": [
+    {
+      "ID": "1",
+      "ID_kegiatan": "1",
+      "Kategori_kegiatan": "Survey"
+    },
+    {
+      "ID": "2",
+      "ID_kegiatan": "1",
+      "Kategori_kegiatan": "Patroli dan Pengamanan"
+    },
+    {
+      "ID": "6",
+      "ID_kegiatan": "1",
+      "Kategori_kegiatan": "Monitoring"
+    },
+    {
+      "ID": "7",
+      "ID_kegiatan": "1",
+      "Kategori_kegiatan": "Rewetting"
+    },
+    {
+      "ID": "8",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Awareness"
+    },
+    {
+      "ID": "9",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Monitoring dan Evaluasi"
+    },
+    {
+      "ID": "10",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Focus Group Discussion (FGD)"
+    },
+    {
+      "ID": "11",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Pelatihan"
+    },
+    {
+      "ID": "13",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Sosialisasi"
+    },
+    {
+      "ID": "14",
+      "ID_kegiatan": "3",
+      "Kategori_kegiatan": "Perencanaan"
+    },
+    {
+      "ID": "15",
+      "ID_kegiatan": "3",
+      "Kategori_kegiatan": "Implementasi"
+    },
+    {
+      "ID": "16",
+      "ID_kegiatan": "3",
+      "Kategori_kegiatan": "Monitoring dan Evaluasi"
+    },
+    {
+      "ID": "17",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Community Development"
+    },
+    {
+      "ID": "18",
+      "ID_kegiatan": "4",
+      "Kategori_kegiatan": "Lainnya"
+    },
+    {
+      "ID": "20",
+      "ID_kegiatan": "5",
+      "Kategori_kegiatan": "Pembuatan proposal dan analisa usaha"
+    },
+    {
+      "ID": "22",
+      "ID_kegiatan": "5",
+      "Kategori_kegiatan": "Studi banding"
+    },
+    {
+      "ID": "23",
+      "ID_kegiatan": "5",
+      "Kategori_kegiatan": "Uji coba"
+    },
+    {
+      "ID": "24",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Konsultasi"
+    },
+    {
+      "ID": "25",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Koordinasi"
+    },
+    {
+      "ID": "26",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Perencanaan"
+    },
+    {
+      "ID": "27",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Lokakarya\/seminar"
+    },
+    {
+      "ID": "28",
+      "ID_kegiatan": "3",
+      "Kategori_kegiatan": "Agro-ekologi"
+    },
+    {
+      "ID": "29",
+      "ID_kegiatan": "3",
+      "Kategori_kegiatan": "Suhu, iklim, dan cuaca"
+    },
+    {
+      "ID": "30",
+      "ID_kegiatan": "6",
+      "Kategori_kegiatan": "Hardware, software, dan Jaringan"
+    },
+    {
+      "ID": "31",
+      "ID_kegiatan": "6",
+      "Kategori_kegiatan": "Sistem informasi"
+    },
+    {
+      "ID": "32",
+      "ID_kegiatan": "6",
+      "Kategori_kegiatan": "Manajemen Data"
+    },
+    {
+      "ID": "33",
+      "ID_kegiatan": "2",
+      "Kategori_kegiatan": "Komunikasi bisnis"
+    }
+  ]
+}

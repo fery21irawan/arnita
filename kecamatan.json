@@ -1,0 +1,200 @@
+{
+  "kecamatan": [
+    {
+      "ID": "1",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "Mendawai",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "2",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "Kamipang",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "3",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Pulau Hanaut",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "4",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Seranau",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "5",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Mentawa Baru Ketapang",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "6",
+      "Provinsi": "2",
+      "Kabupaten": "3",
+      "Kecamatan": "Bandung",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "7",
+      "Provinsi": "2",
+      "Kabupaten": "4",
+      "Kecamatan": "Bogor",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "8",
+      "Provinsi": "3",
+      "Kabupaten": "5",
+      "Kecamatan": "Jakarta",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "9",
+      "Provinsi": "5",
+      "Kabupaten": "6",
+      "Kecamatan": "Surabaya",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "10",
+      "Provinsi": "1",
+      "Kabupaten": "8",
+      "Kecamatan": "Palangkaraya",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "11",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Teluk Sampit",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "12",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Sampit",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "13",
+      "Provinsi": "7",
+      "Kabupaten": "15",
+      "Kecamatan": "Semarang",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "14",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Cempaga",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "15",
+      "Provinsi": "1",
+      "Kabupaten": "1",
+      "Kecamatan": "Katingan Kuala",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "16",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Mentaya Hilir Selatan",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "17",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Mentaya Hilir Utara",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "18",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Mentaya Hulu",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "19",
+      "Provinsi": "0",
+      "Kabupaten": "0",
+      "Kecamatan": "Kecamatan tak diketahui",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "26",
+      "Provinsi": "11",
+      "Kabupaten": "26",
+      "Kecamatan": "Sleman",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "27",
+      "Provinsi": "1",
+      "Kabupaten": "2",
+      "Kecamatan": "Kota Besi",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "28",
+      "Provinsi": "11",
+      "Kabupaten": "27",
+      "Kecamatan": "Mantrijeron",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "29",
+      "Provinsi": "3",
+      "Kabupaten": "28",
+      "Kecamatan": "Bojong Sari",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    },
+    {
+      "ID": "30",
+      "Provinsi": "2",
+      "Kabupaten": "29",
+      "Kecamatan": "Bojong Sari",
+      "Luas_km2": null,
+      "Ibukota_Kecamatan": null
+    }
+  ]
+}
+
+
+
+

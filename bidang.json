@@ -1,0 +1,114 @@
+{
+  "bidang":[
+    {
+      "ID":"1",
+      "Kode_Departemen":"REHI",
+      "Departemen":"Restorasi Ekosistem - Hidrologi"
+    },
+    {
+      "ID":"2",
+      "Kode_Departemen":"PTPG",
+      "Departemen":"Penelitian & Pengembangan"
+    },
+    {
+      "ID":"3",
+      "Kode_Departemen":"PMKK",
+      "Departemen":"Perlindungan & Monitoring Kawasan - Karhutla"
+    },
+    {
+      "ID":"4",
+      "Kode_Departemen":"RESM",
+      "Departemen":"Restorasi Ekosistem - Persemaian"
+    },
+    {
+      "ID":"5",
+      "Kode_Departemen":"PMDH",
+      "Departemen":"Pemberdayaan Masyarakat Desa Hutan"
+    },
+    {
+      "ID":"6",
+      "Kode_Departemen":"PEBI",
+      "Departemen":"Pengembangan Bisnis"
+    },
+    {
+      "ID":"7",
+      "Kode_Departemen":"DBIT",
+      "Departemen":"Database & IT"
+    },
+    {
+      "ID":"8",
+      "Kode_Departemen":"CMDV",
+      "Departemen":"Community Development - Puter"
+    },
+    {
+      "ID":"9",
+      "Kode_Departemen":"PMKB",
+      "Departemen":"Perlindungan & Monitoring Kawasan - Pendataan Biodiversity Flora Fauna"
+    },
+    {
+      "ID":"10",
+      "Kode_Departemen":"PMKP",
+      "Departemen":"Perencanaan"
+    },
+    {
+      "ID":"11",
+      "Kode_Departemen":"UMUM",
+      "Departemen":"Umum & Logistik"
+    },
+    {
+      "ID":"12",
+      "Kode_Departemen":"HRLED",
+      "Departemen":"HR (Human Resource) & LED (Learning And Development)"
+    },
+    {
+      "ID":"13",
+      "Kode_Departemen":"PMKP",
+      "Departemen":"Perlindungan & Monitoring Kawasan - Pembalakan dan Perburuan Liar"
+    },
+    {
+      "ID":"14",
+      "Kode_Departemen":"REPP",
+      "Departemen":"Restorasi Ekosistem - Penanaman & Pemeliharaan"
+    },
+    {
+      "ID":"15",
+      "Kode_Departemen":"AKAD",
+      "Departemen":"Administrasi & Keuangan - Administrasi"
+    },
+    {
+      "ID":"16",
+      "Kode_Departemen":"AKKE",
+      "Departemen":"Administrasi & Keuangan - Keuangan"
+    },
+    {
+      "ID":"17",
+      "Kode_Departemen":"REPT",
+      "Departemen":"Restorasi Ekosistem - Pertanian"
+    },
+    {
+      "ID":"18",
+      "Kode_Departemen":"WII",
+      "Departemen":"Wetlands International Indonesia Programme"
+    },
+    {
+      "ID":"19",
+      "Kode_Departemen":"PRMI",
+      "Departemen":"Permian Global"
+    },
+    {
+      "ID":"20",
+      "Kode_Departemen":"KOMUK",
+      "Departemen":"Komunikasi"
+    },
+    {
+      "ID":"21",
+      "Kode_Departemen":"HSE",
+      "Departemen":"HSE (Health Safety Environment)"
+    },
+    {
+      "ID":"22",
+      "Kode_Departemen":"REMO",
+      "Departemen":"Restorasi Ekosistem - Monitoring & Pengamatan"
+    }
+  ]
+}

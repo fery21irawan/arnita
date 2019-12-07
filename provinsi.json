@@ -1,0 +1,40 @@
+{
+  "provinsi":[
+    {
+      "ID":"1",
+      "Provinsi":"Kalimantan Tengah"
+    },
+    {
+      "ID":"2",
+      "Provinsi":"Jawa Barat"
+    },
+    {
+      "ID":"3",
+      "Provinsi":"Jakarta"
+    },
+    {
+      "ID":"4",
+      "Provinsi":"Surabaya"
+    },
+    {
+      "ID":"5",
+      "Provinsi":"Jawa Timur"
+    },
+    {
+      "ID":"6",
+      "Provinsi":"Kalimantan Barat"
+    },
+    {
+      "ID":"7",
+      "Provinsi":"Jawa Tengah"
+    },
+    {
+      "ID":"8",
+      "Provinsi":"Provinsi tak diketahui"
+    },
+    {
+      "ID":"11",
+      "Provinsi":"Yogyakarta"
+    }
+  ]
+}

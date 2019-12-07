@@ -1,0 +1,40 @@
+{
+  "kelompok": [
+    {
+      "ID": "1",
+      "PilihanKelompok": "KSM (Kelompok Swadaya Masyarakat)"
+    },
+    {
+      "ID": "2",
+      "PilihanKelompok": "STA (Sekolah Tani Agroekologi)"
+    },
+    {
+      "ID": "3",
+      "PilihanKelompok": "BUMDES (Badan Usaha Milik Desa)"
+    },
+    {
+      "ID": "4",
+      "PilihanKelompok": "LHD (Lembaga Pengelolaan Hutan Desa)"
+    },
+    {
+      "ID": "5",
+      "PilihanKelompok": "KTH (Kelompok Tani Hutan)"
+    },
+    {
+      "ID": "6",
+      "PilihanKelompok": "DM (Dayak Misik)"
+    },
+    {
+      "ID": "7",
+      "PilihanKelompok": "RSA (Regu Siaga Api)"
+    },
+    {
+      "ID": "8",
+      "PilihanKelompok": "Informal"
+    },
+    {
+      "ID": "9",
+      "PilihanKelompok": "N\/A"
+    }
+  ]
+}

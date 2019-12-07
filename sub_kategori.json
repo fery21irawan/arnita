@@ -1,0 +1,342 @@
+{
+  "sub_kategori": [
+    {
+      "ID": "1",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Biodiversity"
+    },
+    {
+      "ID": "2",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Gambut"
+    },
+    {
+      "ID": "3",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Risalah Hutan"
+    },
+    {
+      "ID": "4",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Karbon Permukaan dan Gambut"
+    },
+    {
+      "ID": "5",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Pemetaan Kawasan"
+    },
+    {
+      "ID": "6",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Pemetaan Kebakaran"
+    },
+    {
+      "ID": "7",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Peat Depth Measurement"
+    },
+    {
+      "ID": "8",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Hidrologi"
+    },
+    {
+      "ID": "9",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Tata Batas"
+    },
+    {
+      "ID": "10",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "1",
+      "Sub_kategori_kegiatan": "Illegal Logging"
+    },
+    {
+      "ID": "11",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "2",
+      "Sub_kategori_kegiatan": "Fire Prevention"
+    },
+    {
+      "ID": "12",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "2",
+      "Sub_kategori_kegiatan": "Fire Suppression"
+    },
+    {
+      "ID": "13",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Biodiversity"
+    },
+    {
+      "ID": "14",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Risalah Hutan"
+    },
+    {
+      "ID": "15",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Karbon Permukaan dan Gambut"
+    },
+    {
+      "ID": "16",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Peath Dept Measurement"
+    },
+    {
+      "ID": "17",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Hidrologi"
+    },
+    {
+      "ID": "18",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Illegal Logging"
+    },
+    {
+      "ID": "19",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "7",
+      "Sub_kategori_kegiatan": "Rewetting"
+    },
+    {
+      "ID": "20",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "8",
+      "Sub_kategori_kegiatan": "Awareness"
+    },
+    {
+      "ID": "21",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "9",
+      "Sub_kategori_kegiatan": "Evaluasi"
+    },
+    {
+      "ID": "22",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "10",
+      "Sub_kategori_kegiatan": "Focus Group Discussion (FGD)"
+    },
+    {
+      "ID": "23",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "11",
+      "Sub_kategori_kegiatan": "Pelatihan"
+    },
+    {
+      "ID": "24",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "12",
+      "Sub_kategori_kegiatan": "Pertemuan, musyawarah, diskusi"
+    },
+    {
+      "ID": "25",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "13",
+      "Sub_kategori_kegiatan": "Sosialisasi"
+    },
+    {
+      "ID": "26",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "14",
+      "Sub_kategori_kegiatan": "Diskusi"
+    },
+    {
+      "ID": "27",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "14",
+      "Sub_kategori_kegiatan": "Penelitian"
+    },
+    {
+      "ID": "28",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "15",
+      "Sub_kategori_kegiatan": "Uji coba"
+    },
+    {
+      "ID": "29",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "15",
+      "Sub_kategori_kegiatan": "Hasil kegiatan"
+    },
+    {
+      "ID": "30",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "16",
+      "Sub_kategori_kegiatan": "Monitoring"
+    },
+    {
+      "ID": "31",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "16",
+      "Sub_kategori_kegiatan": "Evaluasi"
+    },
+    {
+      "ID": "32",
+      "ID_kegiatan": "4",
+      "ID_kategori_kegiatan": "17",
+      "Sub_kategori_kegiatan": "Lainnya"
+    },
+    {
+      "ID": "33",
+      "ID_kegiatan": "1",
+      "ID_kategori_kegiatan": "6",
+      "Sub_kategori_kegiatan": "Community Development"
+    },
+    {
+      "ID": "34",
+      "ID_kegiatan": "4",
+      "ID_kategori_kegiatan": "18",
+      "Sub_kategori_kegiatan": "Lainnya"
+    },
+    {
+      "ID": "37",
+      "ID_kegiatan": "5",
+      "ID_kategori_kegiatan": "20",
+      "Sub_kategori_kegiatan": "Pembuatan proposal"
+    },
+    {
+      "ID": "38",
+      "ID_kegiatan": "5",
+      "ID_kategori_kegiatan": "20",
+      "Sub_kategori_kegiatan": "Membuat analisa usaha dan rencana bisnis"
+    },
+    {
+      "ID": "41",
+      "ID_kegiatan": "5",
+      "ID_kategori_kegiatan": "22",
+      "Sub_kategori_kegiatan": "Studi banding"
+    },
+    {
+      "ID": "42",
+      "ID_kegiatan": "5",
+      "ID_kategori_kegiatan": "23",
+      "Sub_kategori_kegiatan": "Uji coba dan perbaikan mutu produk"
+    },
+    {
+      "ID": "43",
+      "ID_kegiatan": "5",
+      "ID_kategori_kegiatan": "23",
+      "Sub_kategori_kegiatan": "Trial shipment (uji coba pengiriman produk)"
+    },
+    {
+      "ID": "44",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "24",
+      "Sub_kategori_kegiatan": "Konsultasi"
+    },
+    {
+      "ID": "45",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "25",
+      "Sub_kategori_kegiatan": "Koordinasi"
+    },
+    {
+      "ID": "46",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "26",
+      "Sub_kategori_kegiatan": "Perencanaan"
+    },
+    {
+      "ID": "47",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "27",
+      "Sub_kategori_kegiatan": "Lokakarya\/seminar"
+    },
+    {
+      "ID": "48",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "9",
+      "Sub_kategori_kegiatan": "Monitoring"
+    },
+    {
+      "ID": "49",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "30",
+      "Sub_kategori_kegiatan": "Pembangunan dan pengembangan"
+    },
+    {
+      "ID": "50",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "30",
+      "Sub_kategori_kegiatan": "Pemeliharaan dan troubleshooting"
+    },
+    {
+      "ID": "52",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "31",
+      "Sub_kategori_kegiatan": "Pembangunan dan pengembangan"
+    },
+    {
+      "ID": "53",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "31",
+      "Sub_kategori_kegiatan": "Pemeliharaan"
+    },
+    {
+      "ID": "55",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "32",
+      "Sub_kategori_kegiatan": "Entry Data"
+    },
+    {
+      "ID": "56",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "32",
+      "Sub_kategori_kegiatan": "Perbaikan dan pemeliharaan data"
+    },
+    {
+      "ID": "57",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "32",
+      "Sub_kategori_kegiatan": "Perumusan Variabel Data"
+    },
+    {
+      "ID": "58",
+      "ID_kegiatan": "6",
+      "ID_kategori_kegiatan": "32",
+      "Sub_kategori_kegiatan": "Pengumpulan dan Pengarsipan Data"
+    },
+    {
+      "ID": "59",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "33",
+      "Sub_kategori_kegiatan": "Mitra\/klien\/customer\/investor"
+    },
+    {
+      "ID": "60",
+      "ID_kegiatan": "2",
+      "ID_kategori_kegiatan": "33",
+      "Sub_kategori_kegiatan": "Masyarakat\/produser"
+    },
+    {
+      "ID": "61",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "28",
+      "Sub_kategori_kegiatan": "Agro-ekologi"
+    },
+    {
+      "ID": "62",
+      "ID_kegiatan": "3",
+      "ID_kategori_kegiatan": "29",
+      "Sub_kategori_kegiatan": "Suhu, iklim, dan cuaca"
+    }
+  ]
+}
+
+

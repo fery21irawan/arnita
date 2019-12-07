@@ -1,0 +1,130 @@
+{
+  "kabupaten": [
+    {
+      "ID": "1",
+      "Provinsi": "1",
+      "Kabupaten": "Katingan",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "2",
+      "Provinsi": "1",
+      "Kabupaten": "Kotawaringin Timur",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "3",
+      "Provinsi": "2",
+      "Kabupaten": "Bandung",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "4",
+      "Provinsi": "2",
+      "Kabupaten": "Bogor",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "5",
+      "Provinsi": "3",
+      "Kabupaten": "Jakarta",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "6",
+      "Provinsi": "5",
+      "Kabupaten": "Surabaya",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "7",
+      "Provinsi": "1",
+      "Kabupaten": "Kotim",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "8",
+      "Provinsi": "1",
+      "Kabupaten": "Palangkaraya",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "9",
+      "Provinsi": "1",
+      "Kabupaten": null,
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "10",
+      "Provinsi": "6",
+      "Kabupaten": "Sukadana",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "11",
+      "Provinsi": "6",
+      "Kabupaten": "Ketapang",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "14",
+      "Provinsi": "5",
+      "Kabupaten": "Banyuwangi",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "15",
+      "Provinsi": "7",
+      "Kabupaten": "Semarang",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "16",
+      "Provinsi": "0",
+      "Kabupaten": "Kabupaten tak diketahui",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": "0"
+    },
+    {
+      "ID": "26",
+      "Provinsi": "11",
+      "Kabupaten": "Sleman",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "27",
+      "Provinsi": "11",
+      "Kabupaten": "Yogyakarta",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "28",
+      "Provinsi": "3",
+      "Kabupaten": "Depok",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    },
+    {
+      "ID": "29",
+      "Provinsi": "2",
+      "Kabupaten": "Depok",
+      "Luas_km2": null,
+      "Ibukota_Kabupaten": null
+    }
+  ]
+}
